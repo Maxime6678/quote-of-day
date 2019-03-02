@@ -1,6 +1,6 @@
 {
   "name": "rand-quote",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Get a random quote provide by https://favqs.com",
   "main": "index.js",
   "repository": "github:maxime6678/rand-quote",
