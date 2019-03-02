@@ -1,0 +1,21 @@
+{
+  "name": "rand-quote",
+  "version": "1.0.1",
+  "description": "Get a random quote provide by https://favqs.com",
+  "main": "index.js",
+  "repository": "github:maxime6678/rand-quote",
+  "keywords": [
+    "npm",
+    "quote",
+    "random",
+    "favqs.com"
+  ],
+  "author": {
+    "name": "maxime6678",
+    "email": "maxime6678.dev@gmail.com"
+  },
+  "dependencies": {
+    "axios": "0.18.0"
+  },
+  "license": "MIT"
+}
