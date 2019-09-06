@@ -15,7 +15,7 @@
     "email": "maxime6678.dev@gmail.com"
   },
   "dependencies": {
-    "axios": "0.18.0"
+    "axios": "0.18.1"
   },
   "license": "MIT"
 }
